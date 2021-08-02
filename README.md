@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexeyGoncharenko
+- 👋 Hi, I’m Alexey Goncharenko
 - 👀 I'm interested in CV, ML, Automation Of Enterprises
 - 🌱 I’m currently learning Math for DS
 - 💞️ I’m looking to collaborate on social projects for improving electro public transport
