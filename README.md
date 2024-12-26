@@ -1,6 +1,3 @@
-- :wave: Hi, I’m Alexey
-- :book: I'm interested in CV, ML, Automation of Manufacturing Processes
-- :handshake: How to reach me out: [LinkedIn](https://www.linkedin.com/in/alexeygoncharenko/), [Telegram](https://t.me/AlexeyGoncharenko)
 ## 🖥 Technologies
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyGoncharenko&layout=compact&theme=light)](https://github.com/AlexeyGoncharenko/github-readme-stats)
 
