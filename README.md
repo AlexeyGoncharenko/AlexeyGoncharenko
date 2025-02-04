@@ -1,7 +1,3 @@
-
-![GitHub last commit](https://img.shields.io/github/last-commit/AlexeyGoncharenko/AlexeyGoncharenko)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/AlexeyGoncharenko/AlexeyGoncharenko)
-
 ## 🖥 Technologies
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyGoncharenko&layout=compact&theme=light)](https://github.com/AlexeyGoncharenko/github-readme-stats)
 
